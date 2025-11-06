@@ -46,7 +46,9 @@ const hashes = [
     ["3ce9cb376d1cd7163ee6ab5584edb9da966694e545583957055c984b765cfbad","valid"],
     ["ae6f47226dd91ae9ef0e88e8374ad0e338d1793da23681c2290be1d706ef403b","valid"],
     ["c2d214a484e9d44d34c0c26cca27b34d0eca755d7d7341549885efc7ef592425","valid"],
-    ["fb6b00e8e1da5207a911b24392d242a41a59d55640b62fe428461fd19d4de9c4","valid"]
+    ["fb6b00e8e1da5207a911b24392d242a41a59d55640b62fe428461fd19d4de9c4","valid"],
+    ["8f9cbc015766e6dfbba7ba62f03e98007bf474ee51639a9427f142c579e7c86a","valid"],
+    ["f2be642de8edda127e384142f74b2de9dd63bfacca112f08d9668b535e936a5f","valid"]
 ];
 
 async function checkAll() {
